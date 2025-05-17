@@ -1,0 +1,17 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="bias_detection",
+    version="0.1",
+    packages=find_packages(),
+    install_requires=[
+        "numpy>=1.21.0",
+        "pandas>=1.3.0",
+        "scikit-learn>=0.24.2",
+        "aif360>=0.4.0",
+        "fairlearn>=0.7.0",
+        "nltk>=3.6.3",
+        "torch>=1.9.0",
+        "transformers>=4.11.0",
+    ],
+) 

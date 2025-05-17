@@ -1,0 +1,11 @@
+README.md
+setup.py
+bias_detection/__init__.py
+bias_detection/detector.py
+bias_detection.egg-info/PKG-INFO
+bias_detection.egg-info/SOURCES.txt
+bias_detection.egg-info/dependency_links.txt
+bias_detection.egg-info/requires.txt
+bias_detection.egg-info/top_level.txt
+bias_mitigation/__init__.py
+bias_mitigation/mitigator.py
